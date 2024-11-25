@@ -1,0 +1,68 @@
+body{
+	background-image: url(social3.jpg);
+	text-align: center;
+	
+}
+h1{
+	font-family: monotype corsiva;
+	text-align: center;
+	color: brown;
+	font-size: 70px;
+	text-shadow:4px 2px yellow;
+}
+h3{ 
+   font-family: ink free;
+   text-align: center;
+   color: red;
+   background-color: white;
+}
+#umu{
+	font-family: segoe script;
+	color: white;
+	padding-left: 20px;
+	font-size: 20px;
+}
+h4{ 
+   background-color: blue;
+   color: yellow;
+   font-family: rockwell;
+   font-size: 40 px;
+}
+ul{
+   padding-left: 0px;
+   font-size: 12 px;
+   text-decoration:underline; 
+   color: purple;
+}
+.paragraph{
+	background-position: center;
+	background-color: red;
+    color: green;
+	font-family: ink free;
+	font-size: 10 px;
+}
+.form {
+	background-position: center;
+	color: yellow;
+	font-family: cambria;
+}
+.wrapper{
+	width:420px;
+	background: #2b3607;
+	color: white;
+	border-radius: 12px
+	padding-right: 250px 60px;
+	text-align: center;
+	
+}
+ 
+	
+	
+	
+   
+
+
+
+	
+	
+   
